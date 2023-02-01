@@ -8,7 +8,7 @@ https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneCli
 
 https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo#scrollTo=zuBCgeH08tdn Photos edit
       
-      (https://rs1.es/tutorials/2022/03/09/google-colab-projects.html)
+      https://rs1.es/tutorials/2022/03/09/google-colab-projects.html
 
 
 https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH    #StyleGAN2 Photos edit
