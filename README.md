@@ -7,6 +7,8 @@ https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneCli
 
 
 https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo#scrollTo=zuBCgeH08tdn Photos edit
+
+https://colab.research.google.com/drive/1m52PNveE4PBhYrecj34cnpEeiHcC5LTb?usp=sharing#scrollTo=j1E9DHUt_k_I
       
       https://rs1.es/tutorials/2022/03/09/google-colab-projects.html
 
