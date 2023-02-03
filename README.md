@@ -19,3 +19,6 @@ https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH    #St
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/image_2_image_using_diffusers.ipynb  #image-2-image using diffusers
 
 
+https://colab.research.google.com/github/jina-ai/discoart/blob/main/discoart.ipynb   #discoart
+
+
