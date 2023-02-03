@@ -16,3 +16,6 @@ https://colab.research.google.com/drive/1m52PNveE4PBhYrecj34cnpEeiHcC5LTb?usp=sh
 https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH    #StyleGAN2 Photos edit
 
 
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/image_2_image_using_diffusers.ipynb  #image-2-image using diffusers
+
+
